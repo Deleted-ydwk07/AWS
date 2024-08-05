@@ -1,2 +1,7 @@
 EC2 기초 설정 (인스턴스)
 "인스턴스 시작" (EC2 > 인스턴스 > Launch an instance)
+이름
+애플리케이션 및 OS 이미지(Amazon Machine Image) : "Amazon Linux"
+Amazon Machine Image(AMI) : "Amazon Linux 2023 AMI"
+아키텍처 : "아키텍처"
+인스턴스 유형
